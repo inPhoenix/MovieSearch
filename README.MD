@@ -3,12 +3,13 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
+Live Demo:
+[MovieSearch](https://inphoenix.github.io/movieSearch100/)
+
     # inMovieSearch
 
 Fetch Examples using React Select 2.0 and RxJs 6.0
 
-Click on the link to access the Live Demo:
-[https://inphoenix.github.io/movieSearch100/](https://inphoenix.github.io/movieSearch100/)
 
 <img title="logo" src="public/logo-small.gif" width="6%">
 
