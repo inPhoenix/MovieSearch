@@ -11,7 +11,8 @@ Live Demo:
 Fetch Examples using React Select 2.0 and RxJs 6.0
 
 
-<img title="logo" src="public/logo-small.gif" width="6%">
+<img title="logo" src="public/logo-small.gif" width="6%" alt='logo'>
+<img title="logo" src="public/demo.gif" width="100%" alt='demo'>
 
 ## The stack
 - [x] React
